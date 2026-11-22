@@ -55,3 +55,15 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build
+bin/
+obj/
+
+# User settings
+*.user
+*.suo
